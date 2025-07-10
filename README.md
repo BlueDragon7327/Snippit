@@ -1,5 +1,5 @@
-# Snippit
+# Snippit ✂️
 
-### Welcome to the official Snippit frontend source code!
+### Welcome to the official Snippit frontend source code! 📜
 
-* idk what you're gonna do with it but here it is
+### You can fork this if you want for the UI, however the backend is protected by a private API key so you won't be able to view that.
